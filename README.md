@@ -9,6 +9,7 @@ This project is a starting point for a Flutter application.
 ## Run Command 
 
 flutter pub get
+
 flutter run
 
 ## Output UI
