@@ -13,6 +13,7 @@ flutter pub get
 flutter run
 
 ## Output UI
-
+Login Page : 
 ![Login UI](images/ui1.png)
+Signup Page :
 ![Signup UI](images/ui2.png)
